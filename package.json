@@ -8,7 +8,7 @@
   "module": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Esri/calcite-base.git"
+    "url": "git+https://github.com/Esri/calcite-base.git"
   },
   "author": {
     "name": "Esri"
