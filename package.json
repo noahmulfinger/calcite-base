@@ -38,18 +38,15 @@
     "npm-watch": "^0.6.0",
     "sassdoc": "^2.7.0",
     "scss-to-json": "^2.0.0",
-    "extend": "1.*",
-    "swig": "1.3.*",
-    "themeleon": "0.*",
-    "themeleon-swig": "0.*"
+    "extend": "^1.0.0",
+    "swig": "^1.3.0",
+    "themeleon": "^0.1.0",
+    "themeleon-swig": "^0.1.0"
   },
   "scripts": {
     "docs": "sassdoc dist/ --theme ./theme --dest ./docs",
     "release": "gh-release",
     "build": "node build.js",
     "start": "npm-watch"
-  },
-  "watch": {
-    "build": "dist/_variables.scss"
   }
 }
