@@ -3,9 +3,9 @@
   "version": "1.2.0",
   "description": "Tokens, mixins, and other Sass utilities for Esri's Calcite Design System",
   "homepage": "https://github.com/Esri/calcite-base",
-  "main": "dist/index.js",
-  "js-next:main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "index.js",
+  "js-next:main": "index.js",
+  "module": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Esri/calcite-base.git"
