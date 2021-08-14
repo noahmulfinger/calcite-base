@@ -45,7 +45,6 @@
   "scripts": {
     "docs": "sassdoc dist/ --theme ./theme --dest ./docs",
     "release": "gh-release",
-    "build": "node build.js",
     "start": "npm-watch"
   },
   "watch": {
